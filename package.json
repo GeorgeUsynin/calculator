@@ -1,6 +1,6 @@
 {
   "name": "@georgeusynin/calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple calculator",
   "repository": {
     "type": "git",
@@ -13,3 +13,4 @@
   "author": "George Usynin",
   "license": "ISC"
 }
+
