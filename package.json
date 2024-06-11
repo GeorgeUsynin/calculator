@@ -2,6 +2,7 @@
   "name": "@georgeusynin/calculator",
   "version": "1.0.0",
   "description": "Simple calculator",
+  "repository":"https://github.com/GeorgeUsynin/calculator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
